@@ -4,3 +4,4 @@ bin/*
 .idea/*
 ThirdParty/*
 cmake-build-debug/*
+.DS_Store/*
